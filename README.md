@@ -1,6 +1,6 @@
 # python-password-projects
 in this project, I've worked on two different programs.
-Password-generator and Password-estimator
+Password-generator and User-input-password
 
 1. Password Generator:
 in this program, I've used two modules namely {"random"} and {"zxcvbn" by dropbox - password strength estimater}
